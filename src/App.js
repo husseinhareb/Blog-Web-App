@@ -7,7 +7,6 @@ function App() {
       <Navbar/>
       <div className='content'>
         <Home />
-        <h1>App Component</h1>
       </div>
     </div>
   )
