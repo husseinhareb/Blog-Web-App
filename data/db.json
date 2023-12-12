@@ -1,16 +1,3 @@
 {
-  "blogs": [
-    {
-      "title": "re",
-      "body": "rereer",
-      "author": "mario",
-      "id": 2
-    },
-    {
-      "title": "rere",
-      "body": "reererer",
-      "author": "yoshi",
-      "id": 3
-    }
-  ]
+  "blogs": []
 }
