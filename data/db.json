@@ -1,20 +1,14 @@
 {
   "blogs": [
     {
-      "title": "My First Blog",
-      "body": "Why do we use it?\nIt is a long established fact that a reader will be distracted ",
+      "title": "re",
+      "body": "rereer",
       "author": "mario",
-      "id": 1
-    },
-    {
-      "title": "Opening Party!",
-      "body": "Why do we use it?\nIt is a long established fact that a reader will be distracted ",
-      "author": "yoshi",
       "id": 2
     },
     {
-      "title": "re",
-      "body": "er",
+      "title": "rere",
+      "body": "reererer",
       "author": "yoshi",
       "id": 3
     }
